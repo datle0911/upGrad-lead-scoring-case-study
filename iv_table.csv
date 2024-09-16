@@ -1,0 +1,37 @@
+,variable,iv,unique_bin,top_bin,freq_bin
+0,Lead Origin,0.6095268426758006,3,[1],3903
+1,Lead Source,0.6584125727854561,5,[3],2295
+2,Do Not Email,0.1083537990284368,2,[0],6794
+3,Do Not Call,0.0,1,[0 1],7392
+4,Last Activity,0.8457155133512405,4,[ 3 13  5],3054
+5,Country,0.018164661607170673,2,"[ 0 36 32 30 29 28 27 24 22 20 18 16 15 14 19 10 13  6  5  4 25 23  1 35
+ 37  9 34 12]",5338
+6,Specialization,0.38473740252106275,5,[14 15 17  6  1 11],2486
+7,How did you hear about X Education,0.47884874425560287,4,[6 1 0],4122
+8,What is your current occupation,1.007207474126981,3,[3 4 0 2],4694
+9,What matters most to you in choosing a course,0.5725873890419395,2,[0 1],5249
+10,Search,0.0,1,[1 0],7392
+11,Magazine,0.0,1,[0],7392
+12,Newspaper Article,0.0,1,[1 0],7392
+13,X Education Forums,0.0,1,[1 0],7392
+14,Newspaper,0.0,1,[1 0],7392
+15,Digital Advertisement,0.0,1,[1 0],7392
+16,Through Recommendations,0.0,1,[0 1],7392
+17,Receive More Updates About Our Courses,0.0,1,[0],7392
+18,Tags,4.824129566082766,5,[16 26 20  5 18 15  1],2842
+19,Lead Quality,2.0083336079544942,5,[5 3],4664
+20,Update me on Supply Chain Content,0.0,1,[0],7392
+21,Get updates on DM Content,0.0,1,[0],7392
+22,Lead Profile,1.0885761064799413,4,[4],3314
+23,City,0.35686694088043425,5,[6 0],2645
+24,Asymmetrique Activity Index,0.07565980031657382,3,[3],3355
+25,Asymmetrique Profile Index,0.0735835731783894,3,[3],3355
+26,I agree to pay the amount through cheque,0.0,1,[0],7392
+27,A free copy of Mastering The Interview,0.005845036521251977,2,[0],5086
+28,Last Notable Activity,0.661165700906595,4,[6 9 1 8],2931
+29,Converted,0.0,1,"(-inf, inf)",7392
+30,TotalVisits,0.08166109118408957,6,"[3.50, 7.50)",2161
+31,Total Time Spent on Website,1.0659291528228745,5,"[1.50, 416.50)",2860
+32,Page Views Per Visit,0.05932637377323473,5,"[2.04, inf)",3115
+33,Asymmetrique Activity Score,0.3830677125299527,5,Missing,3355
+34,Asymmetrique Profile Score,0.1826065005060602,5,Missing,3355
